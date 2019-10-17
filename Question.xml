@@ -6,7 +6,7 @@
 	<questiontext format="html">
 		<text>Je ne peux pas soudoyer l'encadrant de TP pour avoir une bonne note ?</text>
 	</questiontext>
-	<penalty>44</penalty>
+	<penalty>77</penalty>
 	<defaultgrade>1</defaultgrade>
 	<subquestion>
 		<text>Premier item de la première paire</text>
@@ -20,7 +20,7 @@
 			<text>Second item de la seconde paire</text>
 		</answer>
 	</subquestion>
-	<shuffleanswers>0</shuffleanswers>
+	<shuffleanswers>145464866868687860</shuffleanswers>
 	<single>true</single>
 
 </question>
