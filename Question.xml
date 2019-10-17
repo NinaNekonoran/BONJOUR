@@ -4,7 +4,7 @@
 		<text>Question au pif</text>
 	</name>
 	<questiontext format="html">
-		<text>Je peux soudoyer l'encadrant de TP pour avoir une bonne note ?</text>
+		<text>Je ne peux pas soudoyer l'encadrant de TP pour avoir une bonne note ?</text>
 	</questiontext>
 	<penalty>44</penalty>
 	<defaultgrade>1</defaultgrade>
