@@ -6,12 +6,12 @@
 	<questiontext format="html">
 		<text>Je peux soudoyer l'encadrant de TP pour avoir une bonne note ?</text>
 	</questiontext>
-	<penalty>1</penalty>
+	<penalty>44</penalty>
 	<defaultgrade>1</defaultgrade>
 	<subquestion>
 		<text>Premier item de la première paire</text>
 		<answer>
-			<text>Second item de le première paire</text>
+			<text>Second item de la première paire</text>
 		</answer>
 	</subquestion>
 	<subquestion>
